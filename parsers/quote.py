@@ -1,5 +1,6 @@
 from locators.quote_locators import QuoteLocators
 
+
 class QuoteParser:
     def __init__(self,parent):
         self.parent = parent
