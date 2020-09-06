@@ -2,7 +2,7 @@ from locators.quote_locators import QuoteLocators
 
 
 class QuoteParser:
-    def __init__(self,parent):
+    def __init__(self, parent):
         self.parent = parent
 
     def __repr__(self):
